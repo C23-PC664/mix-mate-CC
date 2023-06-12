@@ -1,0 +1,1884 @@
+﻿{
+    "explore":[
+    {
+        "race": "Asian",
+        "rekomendasi": "Caps (Nike Sportswear Heritage 86)",
+        "gambar": "https://storage.googleapis.com/mixmate/nike-sportswear-heritage-86-futura-washed-cap.jpg",
+        "style": "Casual",
+        "price": "249000",
+        "gender": "Man"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Shirt (AIRism Pique Short Sleeve Polo)",
+        "gambar": "https://storage.googleapis.com/mixmate/pique-short-sleeve-polo-shirt.jpg",
+        "style": "Casual",
+        "price": "299000",
+        "gender": "Man"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Chinos (Asos Chinos Light Grey)",
+        "gambar": "https://storage.googleapis.com/mixmate/asos-chinos-light-grey.jpg",
+        "style": "Casual",
+        "price": "303206",
+        "gender": "Man"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Sneakers (Nike Air Force 1)",
+        "gambar": "https://storage.googleapis.com/mixmate/nike-air-force-1-sneaker.jpg",
+        "style": "Casual",
+        "price": "1549000",
+        "gender": "Man"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Hoodie (Niepce HTGY Hoodie Urban)",
+        "gambar": "https://storage.googleapis.com/mixmate/niepce-htgy-hoodie-urban.jpg",
+        "style": "Streetwear",
+        "price": "1289000",
+        "gender": "Man"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Jogger Pants (Stoota Jogger Pants)",
+        "gambar": "https://storage.googleapis.com/mixmate/stoota-jogger-pants.jpg",
+        "style": "Streetwear",
+        "price": "207000",
+        "gender": "Man"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Shoes (Adidas Oznova Shoes)",
+        "gambar": "https://storage.googleapis.com/mixmate/adidas-oznova.jpg",
+        "style": "Streetwear",
+        "price": "1235000",
+        "gender": "Man"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Suit (Dusty Rose Slim Fit Suit)",
+        "gambar": "https://storage.googleapis.com/mixmate/dusty-rose-slim-fit-suit.jpg",
+        "style": "Formal",
+        "price": "3000000",
+        "gender": "Man"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "T-Shirt (Baige Tshirt)",
+        "gambar": "https://storage.googleapis.com/mixmate/beige-tshirt.jpg",
+        "style": "Formal",
+        "price": "150000",
+        "gender": "Man"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Pants (Dusty Rose Slim Fit Pants)",
+        "gambar": "https://storage.googleapis.com/mixmate/dusty-rose-slim-fit-pants.jpg",
+        "style": "Formal",
+        "price": "600000",
+        "gender": "Man"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Shoes (Tuxedo Shoes Patent Leather Black Round Toe)",
+        "gambar": "https://storage.googleapis.com/mixmate/tuxedo-shoes-patent-leather-black-round-toe.jpg",
+        "style": "Formal",
+        "price": "900000",
+        "gender": "Man"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Top (Balenciaga Single-Breasted Blazer)",
+        "gambar": "https://storage.googleapis.com/mixmate/balenciaga-singlebreasted-blazer.jpg",
+        "style": "Casual",
+        "price": "13000000",
+        "gender": "Man"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "T-Shirt (Grey T-Shirt)",
+        "gambar": "https://storage.googleapis.com/mixmate/grey-tshirt.jpg",
+        "style": "Casual",
+        "price": "300000",
+        "gender": "Man"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Pants (Military-Code Cargo Pants)",
+        "gambar": "https://storage.googleapis.com/mixmate/militarycode-cargo-pants.jpg",
+        "style": "Casual",
+        "price": "2000000",
+        "gender": "Man"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Shoes (Black Leather Shoes)",
+        "gambar": "https://storage.googleapis.com/mixmate/black-leather-shoes.jpg",
+        "style": "Casual",
+        "price": "1000000",
+        "gender": "Man"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Top (Double Patchwork I-Tech Tee)",
+        "gambar": "https://storage.googleapis.com/mixmate/double-patchwork-itech-tee.jpg",
+        "style": "Casual",
+        "price": "600000",
+        "gender": "Unisex"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Pants (Summer Casual Straight-Leg Hip-Hop Grey Sweatpants)",
+        "gambar": "https://storage.googleapis.com/mixmate/summer-casual-straightleg-hiphop-grey-sweatpants.jpg",
+        "style": "Casual",
+        "price": "700000",
+        "gender": "Unisex"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Shoes (Vintage Blue Converse)",
+        "gambar": "https://storage.googleapis.com/mixmate/vintage-blue-converse.jpg",
+        "style": "Casual",
+        "price": "799000",
+        "gender": "Unisex"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Necklace (Jace Necklace)",
+        "gambar": "https://storage.googleapis.com/mixmate/jace-necklace.jpg",
+        "style": "Casual",
+        "price": "320000",
+        "gender": "Man"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "T-Shirt (Oversized Linen Mix T-Shirt)",
+        "gambar": "https://storage.googleapis.com/mixmate/oversized-linen-mix-t-shirt.jpg",
+        "style": "Casual",
+        "price": "370000",
+        "gender": "Man"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Pants (Ken Jersey Trackpants)",
+        "gambar": "https://storage.googleapis.com/mixmate/ken-jersey-trackpants.jpg",
+        "style": "Casual",
+        "price": "820000",
+        "gender": "Man"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Shoes (Velosamba Vegan Cycling Shoes White)",
+        "gambar": "https://storage.googleapis.com/mixmate/adidas-velosamba-vegan-cycling-shoes.jpg",
+        "style": "Casual",
+        "price": "2000000",
+        "gender": "Man"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Necklace (Jace Necklace)",
+        "gambar": "https://storage.googleapis.com/mixmate/jace-necklace.jpg",
+        "style": "Formal",
+        "price": "320000",
+        "gender": "Women"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Shirt (Regular Printed Shirt)",
+        "gambar": "https://storage.googleapis.com/mixmate/regular-printed-shirt.jpg",
+        "style": "Formal",
+        "price": "900000",
+        "gender": "Women"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Jeans (Arrow Low Heavy Stitching)",
+        "gambar": "https://storage.googleapis.com/mixmate/arrow-low-heavy-stitching.webp",
+        "style": "Formal",
+        "price": "500000",
+        "gender": "Women"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Boots (Round Toe Zippers Boots Short Ankle Boot)",
+        "gambar": "https://storage.googleapis.com/mixmate/round-toe-zippers-boots-short-ankle-boot.webp",
+        "style": "Formal",
+        "price": "800000",
+        "gender": "Women"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Top (Ramie Linen Cotton Women Long Blouse)",
+        "gambar": "https://storage.googleapis.com/mixmate/ramie-linen-cotton-women-long-blouse.jpg",
+        "style": "Casual",
+        "price": "1000000",
+        "gender": "Women"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Shirt (White Shirt)",
+        "gambar": "https://storage.googleapis.com/mixmate/white-shirt.jpg",
+        "style": "Casual",
+        "price": "219000",
+        "gender": "Women"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Pants (High-Waisted Wide-Leg Trousers)",
+        "gambar": "https://storage.googleapis.com/mixmate/high-waisted-wide-legged-trousers.jpg",
+        "style": "Casual",
+        "price": "400000",
+        "gender": "Women"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Shoes (White Sneakers)",
+        "gambar": "https://storage.googleapis.com/mixmate/white-sneakers.jpg",
+        "style": "Casual",
+        "price": "800000",
+        "gender": "Women"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Shirt (Casual style Unisex Street style Long Sleeves Plain Cotton)",
+        "gambar": "https://storage.googleapis.com/mixmate/casual-style-unisex-street-style-long-sleeves-plain-cotton.jpg",
+        "style": "Casual",
+        "price": "200000",
+        "gender": "Man"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Jeans (Hip-hop Baggy Jeans)",
+        "gambar": "https://storage.googleapis.com/mixmate/hiphop-baggy-jeans.jpg",
+        "style": "Casual",
+        "price": "250000",
+        "gender": "Man"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Shoes (Adidas Superstar Sneakers)",
+        "gambar": "https://storage.googleapis.com/mixmate/adidas-superstar-sneakers.jpg",
+        "style": "Casual",
+        "price": "180000",
+        "gender": "Man"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Hoodie (Women Beige Cotton Hoodie)",
+        "gambar": "https://storage.googleapis.com/mixmate/women-beige-cotton-hoodie.jpg",
+        "style": "Casual",
+        "price": "200000",
+        "gender": "Women"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Skirt (Cotton Flared Midi Skirt)",
+        "gambar": "https://storage.googleapis.com/mixmate/cotton-flared-midi-skirt.jpg",
+        "style": "Casual",
+        "price": "300000",
+        "gender": "Women"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Shoes (Concave White Sneakers)",
+        "gambar": "https://storage.googleapis.com/mixmate/concave-white-sneakers.jpg",
+        "style": "Casual",
+        "price": "400000",
+        "gender": "Women"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "T-Shirt (Fine Black T-Shirt)",
+        "gambar": "https://storage.googleapis.com/mixmate/fine-tshirt.jpg",
+        "style": "Casual",
+        "price": "350000",
+        "gender": "Unisex"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Jeans (Astro Loose Baggy Jeans)",
+        "gambar": "https://storage.googleapis.com/mixmate/astro-loose-baggy-jeans.jpg",
+        "style": "Casual",
+        "price": "1000000",
+        "gender": "Unisex"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Shoes (Adidas Superstar Original Black Campaign)",
+        "gambar": "https://storage.googleapis.com/mixmate/adidas-superstar-original-black-campaign.jpg",
+        "style": "Casual",
+        "price": "1200000",
+        "gender": "Unisex"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Sunglasses (Rush Sunglasses)",
+        "gambar": "https://storage.googleapis.com/mixmate/rush-sunglasses.jpg",
+        "style": "Street",
+        "price": "600000",
+        "gender": "Women"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Jacket (Billie MC Jacket)",
+        "gambar": "https://storage.googleapis.com/mixmate/billie-mc-jacket.jpg",
+        "style": "Street",
+        "price": "1700000",
+        "gender": "Women"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Jeans (Astro Loose Baggy Jeans)",
+        "gambar": "https://storage.googleapis.com/mixmate/astro-loose-baggy-jeans.jpg",
+        "style": "Street",
+        "price": "1000000",
+        "gender": "Women"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Boots (Ankle Boots)",
+        "gambar": "https://storage.googleapis.com/mixmate/ankle-boots.jpg",
+        "style": "Street",
+        "price": "800000",
+        "gender": "Women"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Cap (Essential Cotton Cap)",
+        "gambar": "https://storage.googleapis.com/mixmate/essential-cotton-cap.jpg",
+        "style": "Casual",
+        "price": "350000",
+        "gender": "Unisex"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Sunglasses (Rush Sunglasses)",
+        "gambar": "https://storage.googleapis.com/mixmate/rush-sunglasses.jpg",
+        "style": "Casual",
+        "price": "600000",
+        "gender": "Unisex"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Hoodie (Oversized Zip Hoodie)",
+        "gambar": "https://storage.googleapis.com/mixmate/oversized-zip-hoodie.jpg",
+        "style": "Casual",
+        "price": "890000",
+        "gender": "Unisex"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Shorts (Essence Bike Shorts)",
+        "gambar": "https://storage.googleapis.com/mixmate/essence-bike-shorts.jpg",
+        "style": "Casual",
+        "price": "250000",
+        "gender": "Unisex"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Blouse (Mira Black Blouse)",
+        "gambar": "https://storage.googleapis.com/mixmate/mira-blouse.jpg",
+        "style": "Formal",
+        "price": "700000",
+        "gender": "Women"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Trousers (Ila Slim Cargo Trousers)",
+        "gambar": "https://storage.googleapis.com/mixmate/ila-slim-cargo-trousers.jpg",
+        "style": "Formal",
+        "price": "1200000",
+        "gender": "Women"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Boots (Round Toe Zippers Short Ankle Boots)",
+        "gambar": "https://storage.googleapis.com/mixmate/round-toe-zippers-boots-short-ankle-boot.jpg",
+        "style": "Formal",
+        "price": "800000",
+        "gender": "Women"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Shirt (Align Lyocell Shirt)",
+        "gambar": "https://storage.googleapis.com/mixmate/align-lyocell-shirt.jpg",
+        "style": "Formal",
+        "price": "800000",
+        "gender": "Women"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Jeans (Astro Loose Baggy Jeans)",
+        "gambar": "https://storage.googleapis.com/mixmate/astro-loose-baggy-jeans.jpg",
+        "style": "Formal",
+        "price": "1000000",
+        "gender": "Women"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Shoes (Penny Loafers Patent Square Toe Shoes)",
+        "gambar": "https://storage.googleapis.com/mixmate/penny-loafers-patent-square-toe-shoes.jpg",
+        "style": "Formal",
+        "price": "250000",
+        "gender": "Women"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Hat Piece (Udeng Bali)",
+        "gambar": "https://storage.googleapis.com/mixmate/udeng-bali.jpg",
+        "style": "Vintage",
+        "price": "50000",
+        "gender": "Man"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Shirt (Balinese Safari Shirt)",
+        "gambar": "https://storage.googleapis.com/mixmate/balinese-safari-shirt.jpg",
+        "style": "Vintage",
+        "price": "150000",
+        "gender": "Man"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Sarong (Kamen Saput Balinese Sarung)",
+        "gambar": "https://storage.googleapis.com/mixmate/kamen-saput-balinese.jpg",
+        "style": "Vintage",
+        "price": "120000",
+        "gender": "Man"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Sandals (Bata Sandals)",
+        "gambar": "https://storage.googleapis.com/mixmate/bata-sandals.jpg",
+        "style": "Vintage",
+        "price": "250000",
+        "gender": "Man"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Jacket (Vintage Mexican Artwear Jacket)",
+        "gambar": "https://storage.googleapis.com/mixmate/vintage-mexican-artwear-jacket.jpg",
+        "style": "Bohemian",
+        "price": "5200000",
+        "gender": "Man"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Pants (White Slim Fit Pants)",
+        "gambar": "https://storage.googleapis.com/mixmate/white-slim-fit-pants.jpg",
+        "style": "Bohemian",
+        "price": "500000",
+        "gender": "Man"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Turtleneck (White Turtleneck)",
+        "gambar": "https://storage.googleapis.com/mixmate/white-turtleneck.jpg",
+        "style": "Bohemian",
+        "price": "200000",
+        "gender": "Man"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Cap (Black Norton Caps)",
+        "gambar": "https://storage.googleapis.com/mixmate/black-norton-caps.jpg",
+        "style": "Street",
+        "price": "370000",
+        "gender": "Man"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "T-Shirt (Pocket Boxy Cut Oversized Grey T-Shirt)",
+        "gambar": "https://storage.googleapis.com/mixmate/pocket-boxy-cut-oversized-grey-tshirt.jpg",
+        "style": "Street",
+        "price": "65000",
+        "gender": "Man"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Pants (Teflon Switchable Cover Pants)",
+        "gambar": "https://storage.googleapis.com/mixmate/teflon-switchable-cover-pants.jpg",
+        "style": "Street",
+        "price": "5000000",
+        "gender": "Man"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Socks (Long Black Nike Shoes)",
+        "gambar": "https://storage.googleapis.com/mixmate/long-black-nike-shoes.jpg",
+        "style": "Street",
+        "price": "150000",
+        "gender": "Man"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Sneakers (Nike EXP X14 Just Do It Pack Black)",
+        "gambar": "https://storage.googleapis.com/mixmate/nike-exp-x14-just-do-it-pack-black.jpg",
+        "style": "Street",
+        "price": "2500000",
+        "gender": "Man"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Waistcoat (Camel Hair Herringbone Jumper Waistcoat)",
+        "gambar": "https://storage.googleapis.com/mixmate/camel-hair-herringbone-jumper-waistcoat.jpg",
+        "style": "Vintage",
+        "price": "5000000",
+        "gender": "Man"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Shirt (Gingham Brown Shirt)",
+        "gambar": "https://storage.googleapis.com/mixmate/gingham-brown-shirt.jpg",
+        "style": "Vintage",
+        "price": "800000",
+        "gender": "Man"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Tie (Brown Tie)",
+        "gambar": "https://storage.googleapis.com/mixmate/brown-tie.jpg",
+        "style": "Vintage",
+        "price": "220000",
+        "gender": "Man"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Chino (Uniqlo Black Chino Skinny Fit)",
+        "gambar": "https://storage.googleapis.com/mixmate/uniqlo-black-chino-skinny-fit.jpg",
+        "style": "Vintage",
+        "price": "600000",
+        "gender": "Man"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Shoes (Black Pantofel)",
+        "gambar": "https://storage.googleapis.com/mixmate/black-pantofel.jpg",
+        "style": "Vintage",
+        "price": "1000000",
+        "gender": "Man"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "T-Shirt (White T-Shirt)",
+        "gambar": "https://storage.googleapis.com/mixmate/white-tshirt.jpg",
+        "style": "Casual",
+        "price": "150000",
+        "gender": "Unisex"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Jeans (Astro Loose Baggy Jeans)",
+        "gambar": "https://storage.googleapis.com/mixmate/astro-loose-baggy-jeans.jpg",
+        "style": "Casual",
+        "price": "890000",
+        "gender": "Unisex"
+    },
+    {
+        "race": "Asian",
+        "rekomendasi": "Shoes (Adidas Velosamba Vegan Cycling Shoes)",
+        "gambar": "https://storage.googleapis.com/mixmate/adidas-velosamba-vegan-cycling-shoes.jpg",
+        "style": "Casual",
+        "price": "1600000",
+        "gender": "Unisex"
+    },
+    {
+        "race": "Indian",
+        "rekomendasi": "Sunglasses (Vogue Womens Eyewear Frames)",
+        "gambar": "https://storage.cloud.google.com/mixmate/vogue-womens-eyewear-frames.jpg",
+        "style": "Casual",
+        "price": "2100000",
+        "gender": "Man"
+    },
+    {
+        "race": "Indian",
+        "rekomendasi": "Denim Shirt (Polo Ralph Lauren Button Down Denim Shirt)",
+        "gambar": "https://storage.cloud.google.com/mixmate/polo-ralph-lauren-button-down-denim-shirt.jpg",
+        "style": "Casual",
+        "price": "2400000",
+        "gender": "Man"
+    },
+    {
+        "race": "Indian",
+        "rekomendasi": "Chino (Uniqlo Chino Slim Fit)",
+        "gambar": "https://storage.cloud.google.com/mixmate/uniqlo-chino-slim-fit.jpg",
+        "style": "Casual",
+        "price": "599000",
+        "gender": "Man"
+    },
+    {
+        "race": "Indian",
+        "rekomendasi": "Sneakers (Nike Air Force 1)",
+        "gambar": "https://storage.googleapis.com/mixmate/nike-air-force-1-sneaker.jpg",
+        "style": "Casual",
+        "price": "1549000",
+        "gender": "Man"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Blouse (Puff Short Sleeve Tie Crop)",
+        "gambar": "https://storage.googleapis.com/mixmate/orange-puff-short-sleeve-tie-crop-blouse.jpg",
+        "style": "Vintage",
+        "price": "70000",
+        "gender": "Women"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Jeans (Cut Our Fringe Ripped Raw Hem Detail Curvy Jeans)",
+        "gambar": "https://storage.googleapis.com/mixmate/ripped-fringe-flare-jeans.jpg",
+        "style": "Vintage",
+        "price": "550000",
+        "gender": "Women"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Suit (Dusty Rose Slim Fit Suit)",
+        "gambar": "https://storage.googleapis.com/mixmate/dusty-rose-slim-fit-suit.jpg",
+        "style": "Formal",
+        "price": "3000000",
+        "gender": "Man"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Shirt (Beige T-Shirt)",
+        "gambar": "https://storage.googleapis.com/mixmate/baige-shirt.jpg",
+        "style": "Formal",
+        "price": "300000",
+        "gender": "Man"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Tie (Butterfly Bow Tie)",
+        "gambar": "https://storage.googleapis.com/mixmate/butterfly-tie.jpg",
+        "style": "Formal",
+        "price": "60000",
+        "gender": "Man"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Pants (Dusty Rose Slim Fit Pants)",
+        "gambar": "https://storage.googleapis.com/mixmate/dusty-rose-slim-fit-pants.jpg",
+        "style": "Formal",
+        "price": "600000",
+        "gender": "Man"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Shoes (Tuxedo Shoes Patent Leather Black Round Toe)",
+        "gambar": "https://storage.googleapis.com/mixmate/tuxedo-shoes-patent-leather-black-round-toe.jpg",
+        "style": "Formal",
+        "price": "900000",
+        "gender": "Man"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Cardigan (Who Decides War Cathedral Collegiate Pullover 'Cream')",
+        "gambar": "https://storage.googleapis.com/mixmate/whodecidewarcathedral-cardigan-cream.jpg",
+        "style": "Bohemian",
+        "price": "13000000",
+        "gender": "Man"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Shirt (Round Neck T-Shirt 'Turquoise')",
+        "gambar": "https://storage.googleapis.com/mixmate/roundneck-tshirt-turquoise.jpg",
+        "style": "Bohemian",
+        "price": "200000",
+        "gender": "Man"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Jeans (Digital Print Stretch Denim Jeans)",
+        "gambar": "https://storage.googleapis.com/mixmate/digitalprint-denim-jeans.jpg",
+        "style": "Bohemian",
+        "price": "400000",
+        "gender": "Man"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Shoes (Lanvin Curb Sneakers)",
+        "gambar": "https://storage.googleapis.com/mixmate/lanvin-curb-sneakers.jpg",
+        "style": "Bohemian",
+        "price": "7000000",
+        "gender": "Man"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Cardigan (Blue Women Cardigan)",
+        "gambar": "https://storage.googleapis.com/mixmate/blue-women-cardigan.jpg",
+        "style": "Casual",
+        "price": "684572",
+        "gender": "Women"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Shorts (High-Waisted Denim Shorts)",
+        "gambar": "https://storage.googleapis.com/mixmate/high-waisted-denim-shorts.jpg",
+        "style": "Casual",
+        "price": "595280",
+        "gender": "Women"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Sandals (Sakura Sandals)",
+        "gambar": "https://storage.googleapis.com/mixmate/sakura-sandals.jpg",
+        "style": "Casual",
+        "price": "67000",
+        "gender": "Women"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Jacket (Cotton Bomber Jacket Pastel)",
+        "gambar": "https://storage.googleapis.com/mixmate/cotton-bomber-jacket-pastel.jpg",
+        "style": "Casual",
+        "price": "1600000",
+        "gender": "Man"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Shirt (White T-Shirt)",
+        "gambar": "https://storage.googleapis.com/mixmate/white-tshirt.jpg",
+        "style": "Casual",
+        "price": "170000",
+        "gender": "Man"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Jeans (Blue Denim Jeans)",
+        "gambar": "https://storage.googleapis.com/mixmate/blue-denim-jeans.jpg",
+        "style": "Casual",
+        "price": "167000",
+        "gender": "Man"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Shoes (Vans Authentic True White)",
+        "gambar": "https://storage.googleapis.com/mixmate/vans-authentic-true-white.jpg",
+        "style": "Casual",
+        "price": "550000",
+        "gender": "Man"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Sunglasses (Rush Sunglasses)",
+        "gambar": "https://storage.googleapis.com/mixmate/rush-sunglasses.jpg",
+        "style": "Vintage",
+        "price": "600000",
+        "gender": "Women"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Necklace (Jace Necklace)",
+        "gambar": "https://storage.googleapis.com/mixmate/jace-necklace.jpg",
+        "style": "Vintage",
+        "price": "330000",
+        "gender": "Women"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Dress (Claire Knitted Dress)",
+        "gambar": "https://storage.googleapis.com/mixmate/claire-knitted-dress.jpg",
+        "style": "Vintage",
+        "price": "1200000",
+        "gender": "Women"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Shoes (Adidas Velosamba Vegan Cycling Shoes)",
+        "gambar": "https://storage.googleapis.com/mixmate/adidas-velosamba-vegan-cycling-shoes.jpg",
+        "style": "Vintage",
+        "price": "1600000",
+        "gender": "Women"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Sunglasses (Fare Sunglasses)",
+        "gambar": "https://storage.googleapis.com/mixmate/fare-sunglasses.jpg",
+        "style": "Street",
+        "price": "250000",
+        "gender": "Women"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Necklace (Hanness Necklace)",
+        "gambar": "https://storage.googleapis.com/mixmate/hanness-necklace.jpg",
+        "style": "Street",
+        "price": "250000",
+        "gender": "Women"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Dress (Tania Ribbed Tube Dress)",
+        "gambar": "https://storage.googleapis.com/mixmate/tania-ribbed-tube-dress.jpg",
+        "style": "Street",
+        "price": "700000",
+        "gender": "Women"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Shoes (Adidas Spezial Blue Fresh New Colourway)",
+        "gambar": "https://storage.googleapis.com/mixmate/adidas-spezial-blue-fresh-new-colourway.jpg",
+        "style": "Street",
+        "price": "1800000",
+        "gender": "Women"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "T-Shirt (White T-Shirt)",
+        "gambar": "https://storage.googleapis.com/mixmate/white-tshirt.jpg",
+        "style": "Casual",
+        "price": "150000",
+        "gender": "Unisex"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Jeans (Astro Loose Baggy Jeans)",
+        "gambar": "https://storage.googleapis.com/mixmate/astro-loose-baggy-jeans.jpg",
+        "style": "Casual",
+        "price": "890000",
+        "gender": "Unisex"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Shoes (Adidas Velosamba Vegan Cycling Shoes)",
+        "gambar": "https://storage.googleapis.com/mixmate/adidas-velosamba-vegan-cycling-shoes.jpg",
+        "style": "Casual",
+        "price": "1600000",
+        "gender": "Unisex"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Jacket (Blazer Black Leather Jacket)",
+        "gambar": "https://storage.googleapis.com/mixmate/blazer-black-leather-jacket.jpg",
+        "style": "Casual",
+        "price": "206000",
+        "gender": "Women"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Shirt (White T-Shirt)",
+        "gambar": "https://storage.googleapis.com/mixmate/white-tshirt.jpg",
+        "style": "Casual",
+        "price": "150000",
+        "gender": "Women"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Skirt (Denim Skirt)",
+        "gambar": "https://storage.googleapis.com/mixmate/denim-skirt.jpg",
+        "style": "Casual",
+        "price": "260000",
+        "gender": "Women"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Shoes (White Ballet Flats)",
+        "gambar": "https://storage.googleapis.com/mixmate/white-ballet-flats.jpg",
+        "style": "Casual",
+        "price": "300000",
+        "gender": "Women"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Top (One Shoulder Sleeveless Tank-Top)",
+        "gambar": "https://storage.googleapis.com/mixmate/one-shoulder-sleeveless-tanktop.jpg",
+        "style": "Street",
+        "price": "200000",
+        "gender": "Women"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Pants (Cream Baggy Cargo Pants High Waist)",
+        "gambar": "https://storage.googleapis.com/mixmate/cream-baggy-cargo-pants.jpg",
+        "style": "Street",
+        "price": "160000",
+        "gender": "Women"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Sandals (Flat Sandals)",
+        "gambar": "https://storage.googleapis.com/mixmate/flat-sandals.jpg",
+        "style": "Street",
+        "price": "300000",
+        "gender": "Women"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Cap (Black Essential Cotton Cap)",
+        "gambar": "https://storage.googleapis.com/mixmate/black-essential-cotton-cap.jpg",
+        "style": "Casual",
+        "price": "250000",
+        "gender": "Man"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Jacket (Raheem Tracksuit Jacket)",
+        "gambar": "https://storage.googleapis.com/mixmate/raheem-tracksuit-jacket.jpg",
+        "style": "Casual",
+        "price": "890000",
+        "gender": "Man"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Pants (Adidas Wiven Tracksuit Bottom)",
+        "gambar": "https://storage.googleapis.com/mixmate/blue-adidas-woven-tracksuit.jpg",
+        "style": "Casual",
+        "price": "937000",
+        "gender": "Man"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Shoes (Adidas Spezial Blue Fresh New Colourway)",
+        "gambar": "https://storage.googleapis.com/mixmate/adidas-spezial-blue-fresh-new-colourway.jpg",
+        "style": "Casual",
+        "price": "1800000",
+        "gender": "Man"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Sweatshirt (Standard Terry Lightweight Sweatshirt)",
+        "gambar": "https://storage.googleapis.com/mixmate/standard-terry-lightweight-sweatshirt.jpg",
+        "style": "Casual",
+        "price": "674000",
+        "gender": "Man"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Pants (Blue Adidas Woven Tracksuit)",
+        "gambar": "https://storage.googleapis.com/mixmate/blue-adidas-woven-tracksuit.jpg",
+        "style": "Casual",
+        "price": "937000",
+        "gender": "Man"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Shoes (Adidas Velosamba Vegan Cycling Shoes)",
+        "gambar": "https://storage.googleapis.com/mixmate/adidas-velosamba-vegan-cycling-shoes.jpg",
+        "style": "Casual",
+        "price": "1600000",
+        "gender": "Man"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Cap (Essential Cotton Frayed Edge Cap)",
+        "gambar": "https://storage.googleapis.com/mixmate/essential-cotton-frayed-edge-cap.jpg",
+        "style": "Casual",
+        "price": "374000",
+        "gender": "Man"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Shirt (Dark Green Stripe Relaxed Structured Shirt)",
+        "gambar": "https://storage.googleapis.com/mixmate/green-relaxed-structured-shirt.jpg",
+        "style": "Casual",
+        "price": "824000",
+        "gender": "Man"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Tank Top (Dusty Khaki Standard Tank Top)",
+        "gambar": "https://storage.googleapis.com/mixmate/cream-standard-tank-top.jpg",
+        "style": "Casual",
+        "price": "250000",
+        "gender": "Man"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Jeans (Stained Blue Galaxy Loose Straight Jeans)",
+        "gambar": "https://storage.googleapis.com/mixmate/galaxy-loose-straight-jeans.jpg",
+        "style": "Casual",
+        "price": "1000000",
+        "gender": "Man"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Shoes (Dr. Martens Vintage 2976 Leather Chelsea Boots Black)",
+        "gambar": "https://storage.googleapis.com/mixmate/dr-martens-vintage-2976-leather-chelsea-boots-black.jpg",
+        "style": "Casual",
+        "price": "2000000",
+        "gender": "Man"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Necklace (Jace Necklace)",
+        "gambar": "https://storage.googleapis.com/mixmate/jace-necklace.jpg",
+        "style": "Formal",
+        "price": "824000",
+        "gender": "Man"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Shirt (Eleven Grey Tyler Lightweight Denim Shirt)",
+        "gambar": "https://storage.googleapis.com/mixmate/tyler-lightweight-denim-shirt.jpg",
+        "style": "Formal",
+        "price": "1000000",
+        "gender": "Man"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Trousers (Soft Stripe Dream Loose Linen Mix Trousers)",
+        "gambar": "https://storage.googleapis.com/mixmate/dream-loose-linen-mix-trousers.jpg",
+        "style": "Formal",
+        "price": "1044000",
+        "gender": "Man"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Shoes (Vans Old Skool Black)",
+        "gambar": "https://storage.googleapis.com/mixmate/vans-old-skool.jpg",
+        "style": "Formal",
+        "price": "1000000",
+        "gender": "Man"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Necklace (Jace Necklace)",
+        "gambar": "https://storage.googleapis.com/mixmate/jace-necklace.jpg",
+        "style": "Formal",
+        "price": "824000",
+        "gender": "Man"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Shirt (Relaxed Resort Terry Shirt)",
+        "gambar": "https://storage.googleapis.com/mixmate/relaxed-resort-terry-shirt.jpg",
+        "style": "Formal",
+        "price": "320000",
+        "gender": "Man"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Jeans (Space Relaxed Straight Jeans)",
+        "gambar": "https://storage.googleapis.com/mixmate/space-relaxed-straight-jeans.jpg",
+        "style": "Formal",
+        "price": "820000",
+        "gender": "Man"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Shoes (Adidas Handball Spezial Low)",
+        "gambar": "https://storage.googleapis.com/mixmate/adidas-handball-spezial-low.jpg",
+        "style": "Formal",
+        "price": "1000000",
+        "gender": "Man"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Necklace (Jace Necklace)",
+        "gambar": "https://storage.googleapis.com/mixmate/jace-necklace.jpg",
+        "style": "Formal",
+        "price": "320000",
+        "gender": "Unisex"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Shirt (Eleven Grey Tyler Lightweight Denim Shirt)",
+        "gambar": "https://storage.googleapis.com/mixmate/tyler-lightweight-denim-shirt.jpg",
+        "style": "Formal",
+        "price": "1000000",
+        "gender": "Unisex"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Jeans (Space Relaxed Straight Jeans)",
+        "gambar": "https://storage.googleapis.com/mixmate/space-relaxed-straight-jeans.jpg",
+        "style": "Formal",
+        "price": "1000000",
+        "gender": "Unisex"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Shoes (Vans Old Skool Shoes)",
+        "gambar": "https://storage.googleapis.com/mixmate/vans-old-skool.jpg",
+        "style": "Formal",
+        "price": "1044000",
+        "gender": "Unisex"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Sunglasses (Dark Brown Sunglasses)",
+        "gambar": "https://storage.googleapis.com/mixmate/dark-brown-sunglasses.jpg",
+        "style": "Casual",
+        "price": "300000",
+        "gender": "Man"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Top (Dark Green Long Sleeve Shirt)",
+        "gambar": "https://storage.googleapis.com/mixmate/dark-green-long-sleeve-shirt.jpg",
+        "style": "Casual",
+        "price": "180000",
+        "gender": "Man"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Shirt (White Crew-neck T-shirt)",
+        "gambar": "https://storage.googleapis.com/mixmate/white-crewneck-tshirt.jpg",
+        "style": "Casual",
+        "price": "150000",
+        "gender": "Man"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Pants (Beige Chinos)",
+        "gambar": "https://storage.googleapis.com/mixmate/beige-chinos.jpg",
+        "style": "Casual",
+        "price": "250000",
+        "gender": "Man"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Shoes (White Canvas Low Top Sneakers)",
+        "gambar": "https://storage.googleapis.com/mixmate/white-canvas-lowtop-sneakers.jpg",
+        "style": "Casual",
+        "price": "800000",
+        "gender": "Man"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Top (White Short Sleeve Shirt)",
+        "gambar": "https://storage.googleapis.com/mixmate/white-short-sleeve-shirt.jpg",
+        "style": "Casual",
+        "price": "400000",
+        "gender": "Man"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Shirt (White Crew-neck T-shirt)",
+        "gambar": "https://storage.googleapis.com/mixmate/white-crewneck-tshirt.jpg",
+        "style": "Casual",
+        "price": "150000",
+        "gender": "Man"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Pants (Beige Check Chinos)",
+        "gambar": "https://storage.googleapis.com/mixmate/beige-checkers-chinos.jpg",
+        "style": "Casual",
+        "price": "400000",
+        "gender": "Man"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Shoes (White Canvas Low-top Sneakers)",
+        "gambar": "https://storage.googleapis.com/mixmate/white-canvas-lowtop-sneakers.jpg",
+        "style": "Casual",
+        "price": "800000",
+        "gender": "Man"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Top (Brown Long Sleeve Crop-top Hoodie)",
+        "gambar": "https://storage.googleapis.com/mixmate/brown-long-sleeve-croptop-hoodie.jpg",
+        "style": "Formal",
+        "price": "400000",
+        "gender": "Women"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Pants (Chocolate Brown Joggers)",
+        "gambar": "https://storage.googleapis.com/mixmate/chocolate-brown-joggers.jpg",
+        "style": "Formal",
+        "price": "420000",
+        "gender": "Women"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Shoes (Converse Run Star Hike Brown Sneakers)",
+        "gambar": "https://storage.googleapis.com/mixmate/converse-rin-star-hike-brown-sneakers.jpg",
+        "style": "Formal",
+        "price": "2500000",
+        "gender": "Women"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Top (Rainbow Sweater Turtleneck)",
+        "gambar": "https://storage.googleapis.com/mixmate/rainbow-sweater-turtleneck.jpg",
+        "style": "Casual",
+        "price": "300000",
+        "gender": "Women"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Shorts (H&M Green Cargo Shorts)",
+        "gambar": "https://storage.googleapis.com/mixmate/h-and-m-green-cargo-shorts.jpg",
+        "style": "Casual",
+        "price": "390000",
+        "gender": "Women"
+    },
+    {
+        "race": "Black",
+        "rekomendasi": "Shoes (Chalk Kitten Heel Lace-up Ankle Boots)",
+        "gambar": "https://storage.googleapis.com/mixmate/chalk-kitten-heel-laceup-ankle-boots.jpg",
+        "style": "Casual",
+        "price": "430000",
+        "gender": "Women"
+    },
+    {
+        "race": "White",
+        "rekomendasi": "Turtleneck (H&M Ribbed Mock Turtleneck)",
+        "gambar": "https://storage.googleapis.com/mixmate/ribbed-mock-turtleneck-top.jpg",
+        "style": "Vintage",
+        "price": "200000",
+        "gender": "Women"
+    },
+    {
+        "race": "White",
+        "rekomendasi": "Skirt (Love Bonito Elinie Pleated Midi Skirt)",
+        "gambar": "https://storage.googleapis.com/mixmate/flared-pleated-knee-length-skirt.jpg",
+        "style": "Vintage",
+        "price": "749000",
+        "gender": "Women"
+    },
+    {
+        "race": "White",
+        "rekomendasi": "Shoes (Modshoes the Faye Ladies Brogue)",
+        "gambar": "https://storage.googleapis.com/mixmate/modshoes-the-faye-ladies-brogue.jpg",
+        "style": "Vintage",
+        "price": "600000",
+        "gender": "Women"
+    },
+    {
+        "race": "White",
+        "rekomendasi": "Blouse (Top Animal Print)",
+        "gambar": "https://storage.googleapis.com/mixmate/blousetop-animal-print.jpg",
+        "style": "Vintage",
+        "price": "40000",
+        "gender": "Women"
+    },
+    {
+        "race": "White",
+        "rekomendasi": "Skirt (Vista Pastel Fresh Long Skirt)",
+        "gambar": "https://storage.googleapis.com/mixmate/vista-pastel-fresh-long-skirt.jpg",
+        "style": "Vintage",
+        "price": "500000",
+        "gender": "Women"
+    },
+    {
+        "race": "White",
+        "rekomendasi": "Shoes (Viditi Seoul High Heels)",
+        "gambar": "https://storage.googleapis.com/mixmate/viditi-seoul-high-heels.jpg",
+        "style": "Vintage",
+        "price": "250000",
+        "gender": "Women"
+    },
+    {
+        "race": "White",
+        "rekomendasi": "Hoodie (Off-White Cropped Hoodie)",
+        "gambar": "https://storage.googleapis.com/mixmate/offwhite-cropped-hoodie.jpg",
+        "style": "Casual",
+        "price": "1030000",
+        "gender": "Women"
+    },
+    {
+        "race": "White",
+        "rekomendasi": "Sweatpants (Off-White Black Sweatpants)",
+        "gambar": "https://storage.googleapis.com/mixmate/offwhite-black-sweatpants.jpg",
+        "style": "Casual",
+        "price": "5600000",
+        "gender": "Women"
+    },
+    {
+        "race": "White",
+        "rekomendasi": "Sandals (Off-White Black 'Meteor' Slides)",
+        "gambar": "https://storage.googleapis.com/mixmate/offwhite-black-meteor-sandals.jpg",
+        "style": "Casual",
+        "price": "3550000",
+        "gender": "Women"
+    },
+    {
+        "race": "White",
+        "rekomendasi": "Jumpsuit (Zara Rustic Beige Jumpsuit)",
+        "gambar": "https://storage.googleapis.com/mixmate/zara-rustic-beige-jumpsuit-with-belt.jpg",
+        "style": "Casual",
+        "price": "654000",
+        "gender": "Women"
+    },
+    {
+        "race": "White",
+        "rekomendasi": "Sandals (Velcro Sandals)",
+        "gambar": "https://storage.googleapis.com/mixmate/velcro-sandals.jpg",
+        "style": "Casual",
+        "price": "5200000",
+        "gender": "Women"
+    },
+    {
+        "race": "White",
+        "rekomendasi": "Shirt (Cotton Striped Shirt Blue)",
+        "gambar": "https://storage.googleapis.com/mixmate/cotton-striped-shirt-blue.jpg",
+        "style": "Casual",
+        "price": "370000",
+        "gender": "Women"
+    },
+    {
+        "race": "White",
+        "rekomendasi": "Pants (High Waist Linen Pants)",
+        "gambar": "https://storage.googleapis.com/mixmate/high-waisted-linen-pants.jpg",
+        "style": "Casual",
+        "price": "200000",
+        "gender": "Women"
+    },
+    {
+        "race": "White",
+        "rekomendasi": "Shoes (Casual White Sneakers)",
+        "gambar": "https://storage.googleapis.com/mixmate/casual-white-sneakers.jpg",
+        "style": "Casual",
+        "price": "600000",
+        "gender": "Women"
+    },
+    {
+        "race": "White",
+        "rekomendasi": "Sunglasses (Trek Sunglasses)",
+        "gambar": "https://storage.googleapis.com/mixmate/trek-sunglasses.jpg",
+        "style": "Casual",
+        "price": "600000",
+        "gender": "Man"
+    },
+    {
+        "race": "White",
+        "rekomendasi": "Shirt (Black Shirt)",
+        "gambar": "https://storage.googleapis.com/mixmate/black-shirt.jpg",
+        "style": "Casual",
+        "price": "890000",
+        "gender": "Man"
+    },
+    {
+        "race": "White",
+        "rekomendasi": "Shorts (Astro Denim Loose Baggy Shorts)",
+        "gambar": "https://storage.googleapis.com/mixmate/astro-denim-loose-baggy-shorts.jpg",
+        "style": "Casual",
+        "price": "890000",
+        "gender": "Man"
+    },
+    {
+        "race": "White",
+        "rekomendasi": "Bracelet (John Bracelet)",
+        "gambar": "https://storage.googleapis.com/mixmate/john-bracelet.jpg",
+        "style": "Casual",
+        "price": "230000",
+        "gender": "Man"
+    },
+    {
+        "race": "White",
+        "rekomendasi": "T-Shirt (Fine Black T-Shirt)",
+        "gambar": "https://storage.googleapis.com/mixmate/fine-tshirt.jpg",
+        "style": "Street",
+        "price": "380000",
+        "gender": "Women"
+    },
+    {
+        "race": "White",
+        "rekomendasi": "Trousers (Chase Pull On Trousers)",
+        "gambar": "https://storage.googleapis.com/mixmate/chase-pull-on-trousers.jpg",
+        "style": "Street",
+        "price": "1000000",
+        "gender": "Women"
+    },
+    {
+        "race": "White",
+        "rekomendasi": "Sandals (Flat Sandals)",
+        "gambar": "https://storage.googleapis.com/mixmate/flat-sandals.jpg",
+        "style": "Street",
+        "price": "250000",
+        "gender": "Women"
+    },
+    {
+        "race": "White",
+        "rekomendasi": "Ear Cuffs (Cay Ear Cuffs)",
+        "gambar": "https://storage.googleapis.com/mixmate/cay-ear-cuffs.jpg",
+        "style": "Casual",
+        "price": "225000",
+        "gender": "Women"
+    },
+    {
+        "race": "White",
+        "rekomendasi": "Dress (Lycke Shoulder Dress)",
+        "gambar": "https://storage.googleapis.com/mixmate/lycke-shoulder-dress.jpg",
+        "style": "Casual",
+        "price": "1000000",
+        "gender": "Women"
+    },
+    {
+        "race": "White",
+        "rekomendasi": "Rings (Leona Toe Ring Set)",
+        "gambar": "https://storage.googleapis.com/mixmate/leona-toe-ring-set.jpg",
+        "style": "Casual",
+        "price": "200000",
+        "gender": "Women"
+    },
+    {
+        "race": "White",
+        "rekomendasi": "Shoes (Ann Demeulemesteer Black Wedge Mules)",
+        "gambar": "https://storage.googleapis.com/mixmate/ann-demeulemesteer-black-wedge-mules.jpg",
+        "style": "Casual",
+        "price": "800000",
+        "gender": "Women"
+    },
+    {
+        "race": "White",
+        "rekomendasi": "Shirt (Cotton Poplin Shirt)",
+        "gambar": "https://storage.googleapis.com/mixmate/cotton-poplin-shirt.jpg",
+        "style": "Casual",
+        "price": "750000",
+        "gender": "Women"
+    },
+    {
+        "race": "White",
+        "rekomendasi": "Tank Top (Clean Fitted Tank Top)",
+        "gambar": "https://storage.googleapis.com/mixmate/clean-fitted-tank-top.jpg",
+        "style": "Casual",
+        "price": "150000",
+        "gender": "Women"
+    },
+    {
+        "race": "White",
+        "rekomendasi": "Jeans (Arrow Low Heavy Stitching)",
+        "gambar": "https://storage.googleapis.com/mixmate/arrow-low-heavy-stitching.jpg",
+        "style": "Casual",
+        "price": "1200000",
+        "gender": "Women"
+    },
+    {
+        "race": "White",
+        "rekomendasi": "Earrings (Kate Earrings)",
+        "gambar": "https://storage.googleapis.com/mixmate/kate-earrings.jpg",
+        "style": "Casual",
+        "price": "800000",
+        "gender": "Women"
+    },
+    {
+        "race": "White",
+        "rekomendasi": "Shirt (Ava Linen Mix Short Sleeve Shirt)",
+        "gambar": "https://storage.googleapis.com/mixmate/ava-linen-mix-short-sleeve-shirt.jpg",
+        "style": "Casual",
+        "price": "250000",
+        "gender": "Women"
+    },
+    {
+        "race": "White",
+        "rekomendasi": "Skirt (Rhea Long Denim Skirt)",
+        "gambar": "https://storage.googleapis.com/mixmate/rhea-long-denim-skirt.jpg",
+        "style": "Casual",
+        "price": "970000",
+        "gender": "Women"
+    },
+    {
+        "race": "White",
+        "rekomendasi": "Denim Jacket (Loose Fit Denim Jacket)",
+        "gambar": "https://storage.googleapis.com/mixmate/loose-fit-denim-jacket.jpg",
+        "style": "Casual",
+        "price": "800000",
+        "gender": "Man"
+    },
+    {
+        "race": "White",
+        "rekomendasi": "Vest (Rompi Rajut Middle Gauge Kerah Bulat)",
+        "gambar": "https://storage.googleapis.com/mixmate/rompi-rajut-middle-gauge-kerah-bulat.jpg",
+        "style": "Casual",
+        "price": "300000",
+        "gender": "Man"
+    },
+    {
+        "race": "White",
+        "rekomendasi": "Chino (Chino Skinny Fit)",
+        "gambar": "https://storage.googleapis.com/mixmate/chino-skinny-fit.jpg",
+        "style": "Casual",
+        "price": "600000",
+        "gender": "Man"
+    },
+    {
+        "race": "White",
+        "rekomendasi": "Belt (Italian Leather Vintage Narrow Belt)",
+        "gambar": "https://storage.googleapis.com/mixmate/italian-leather-vintage-narrow-belt.jpg",
+        "style": "Casual",
+        "price": "499000",
+        "gender": "Man"
+    },
+    {
+        "race": "White",
+        "rekomendasi": "Sneakers (Nike Air Force 1 Sneaker)",
+        "gambar": "https://storage.googleapis.com/mixmate/nike-air-force-1-sneaker.jpg",
+        "style": "Casual",
+        "price": "1549000",
+        "gender": "Man"
+    },
+    {
+        "race": "White",
+        "rekomendasi": "T-Shirt (White T-Shirt)",
+        "gambar": "https://storage.googleapis.com/mixmate/white-tshirt.jpg",
+        "style": "Casual",
+        "price": "150000",
+        "gender": "Unisex"
+    },
+    {
+        "race": "White",
+        "rekomendasi": "Jeans (Astro Loose Baggy Jeans)",
+        "gambar": "https://storage.googleapis.com/mixmate/astro-loose-baggy-jeans.jpg",
+        "style": "Casual",
+        "price": "890000",
+        "gender": "Unisex"
+    },
+    {
+        "race": "White",
+        "rekomendasi": "Shoes (Adidas Velosamba Vegan Cycling Shoes)",
+        "gambar": "https://storage.googleapis.com/mixmate/adidas-velosamba-vegan-cycling-shoes.jpg",
+        "style": "Casual",
+        "price": "1600000",
+        "gender": "Unisex"
+    },
+    {
+        "race": "White",
+        "rekomendasi": "Earrings (Cay Ear Cuffs)",
+        "gambar": "https://storage.googleapis.com/mixmate/cay-ear-cuffs.jpg",
+        "style": "Formal",
+        "price": "225000",
+        "gender": "Man"
+    },
+    {
+        "race": "White",
+        "rekomendasi": "Shirt (Cream Relaxed Terry Shirt)",
+        "gambar": "https://storage.googleapis.com/mixmate/cream-relaxed-terry-shirt.jpg",
+        "style": "Formal",
+        "price": "820000",
+        "gender": "Man"
+    },
+    {
+        "race": "White",
+        "rekomendasi": "Tank Top (Standard White Tank Top)",
+        "gambar": "https://storage.googleapis.com/mixmate/2-pack-standard-tank-top.jpg",
+        "style": "Formal",
+        "price": "250000",
+        "gender": "Man"
+    },
+    {
+        "race": "White",
+        "rekomendasi": "Bracelet (John Bracelet)",
+        "gambar": "https://storage.googleapis.com/mixmate/john-bracelet.jpg",
+        "style": "Formal",
+        "price": "230000",
+        "gender": "Man"
+    },
+    {
+        "race": "White",
+        "rekomendasi": "Shorts (Men Slim Fit Stretch Cotton Denim Bermuda Shorts)",
+        "gambar": "https://storage.googleapis.com/mixmate/mens-slim-fit-stretch-cotton-denim-bermuda-shorts.jpg",
+        "style": "Formal",
+        "price": "800000",
+        "gender": "Man"
+    },
+    {
+        "race": "White",
+        "rekomendasi": "Sneaker (Nike Air Force 1 Sneaker)",
+        "gambar": "https://storage.googleapis.com/mixmate/Sneaker (Nike Air Force 1 Sneaker)",
+        "style": "Formal",
+        "price": "1549000",
+        "gender": "Man"
+    },
+    {
+        "race": "White",
+        "rekomendasi": "Earrings (Cay Ear Cuffs)",
+        "gambar": "https://storage.googleapis.com/mixmate/cay-ear-cuffs.jpg",
+        "style": "Street",
+        "price": "225000",
+        "gender": "Man"
+    },
+    {
+        "race": "White",
+        "rekomendasi": "Necklace (Jace Necklace)",
+        "gambar": "https://storage.googleapis.com/mixmate/jace-necklace.jpg",
+        "style": "Street",
+        "price": "320000",
+        "gender": "Man"
+    },
+    {
+        "race": "White",
+        "rekomendasi": "Shirt (Black Relaxed Resort Terry Shirt)",
+        "gambar": "https://storage.googleapis.com/mixmate/black-relaxed-resort-terry-shirt.jpg",
+        "style": "Street",
+        "price": "820000",
+        "gender": "Man"
+    },
+    {
+        "race": "White",
+        "rekomendasi": "Short (Austin Jersey Short)",
+        "gambar": "https://storage.googleapis.com/mixmate/austin-jersey-short.jpg",
+        "style": "Street",
+        "price": "675000",
+        "gender": "Man"
+    },
+    {
+        "race": "White",
+        "rekomendasi": "Shoes (Dr. Martens Vintage 2976 Leather Chelsea Boots Black)",
+        "gambar": "https://storage.googleapis.com/mixmate/dr-martens-vintage-2976-leather-chelsea-boots-black.jpg",
+        "style": "Street",
+        "price": "2000000",
+        "gender": "Man"
+    },
+    {
+        "race": "White",
+        "rekomendasi": "Earrings (Cay Ear Cuffs)",
+        "gambar": "https://storage.googleapis.com/mixmate/cay-ear-cuffs.jpg",
+        "style": "Casual",
+        "price": "225000",
+        "gender": "Man"
+    },
+    {
+        "race": "White",
+        "rekomendasi": "Shirt (Lighty Green Relaxed Resort Terry Shirt)",
+        "gambar": "https://storage.googleapis.com/mixmate/lighty-green-relaxed-resort-terry-shirt.jpg",
+        "style": "Casual",
+        "price": "820000",
+        "gender": "Man"
+    },
+    {
+        "race": "White",
+        "rekomendasi": "Tank Top (Dusty Khaki Standard Tank Top)",
+        "gambar": "https://storage.googleapis.com/mixmate/dusty-khaki-standard-tank-top.jpg",
+        "style": "Casual",
+        "price": "150000",
+        "gender": "Man"
+    },
+    {
+        "race": "White",
+        "rekomendasi": "Shorts (Lighty Green Austin Jersey Shorts)",
+        "gambar": "https://storage.googleapis.com/mixmate/lighty-green-austin-jersey-shorts.jpg",
+        "style": "Casual",
+        "price": "675000",
+        "gender": "Man"
+    },
+    {
+        "race": "White",
+        "rekomendasi": "Shoes (Skate Piero Original Lorentz Off White LT Grey)",
+        "gambar": "https://storage.googleapis.com/mixmate/skate-piero-original-lorentz-off-white-lt-grey.jpg",
+        "style": "Casual",
+        "price": "350000",
+        "gender": "Man"
+    },
+    {
+        "race": "White",
+        "rekomendasi": "Jacket (Military Airborne Flight Tactical Bomber Jacket)",
+        "gambar": "https://storage.googleapis.com/mixmate/military-airborne-flight-tactical-bomber-jacket.jpg",
+        "style": "Casual",
+        "price": "580000",
+        "gender": "Man"
+    },
+    {
+        "race": "White",
+        "rekomendasi": "Hoodie (H&M Relaxed Fit Grey Hoodie)",
+        "gambar": "https://storage.googleapis.com/mixmate/h-and-m-relaxed-fit-grey-hoodie.jpg",
+        "style": "Casual",
+        "price": "500000",
+        "gender": "Man"
+    },
+    {
+        "race": "White",
+        "rekomendasi": "Jeans (Blue Slim Fit Jeans)",
+        "gambar": "https://storage.googleapis.com/mixmate/blue-slim-fit-jeans.jpg",
+        "style": "Casual",
+        "price": "415000",
+        "gender": "Man"
+    },
+    {
+        "race": "White",
+        "rekomendasi": "Shoes (Adidas Stan Smith White)",
+        "gambar": "https://storage.googleapis.com/mixmate/adidas-stan-smith-white.jpg",
+        "style": "Casual",
+        "price": "1200000",
+        "gender": "Man"
+    },
+    {
+        "race": "Middle Eastern",
+        "rekomendasi": "Blouse (Chiffon Ruffle Sleeve)",
+        "gambar": "https://storage.cloud.google.com/mixmate/chiffon-ruffle-sleeve-blouse.jpg",
+        "style": "Casual",
+        "price": "120000",
+        "gender": "Women"
+    },
+    {
+        "race": "Middle Eastern",
+        "rekomendasi": "Jeans (H&M Flare High Waist Jeans)",
+        "gambar": "https://storage.cloud.google.com/mixmate/h&m-flare-highwaist-jeans.jpg",
+        "style": "Casual",
+        "price": "429900",
+        "gender": "Women"
+    },
+    {
+        "race": "Middle Eastern",
+        "rekomendasi": "Sneakers (Women Flat White Shoes Casual Embroidery Sneakers)",
+        "gambar": "https://storage.cloud.google.com/mixmate/women-flat-white-shoes-casual-embroidery-sneakers.jpg",
+        "style": "Casual",
+        "price": "298600",
+        "gender": "Women"
+    },
+    {
+        "race": "Middle Eastern",
+        "rekomendasi": "Shirt (Plain Button Front Plaid Shirt)",
+        "gambar": "https://storage.cloud.google.com/mixmate/plain-button-front-plaid-shirt.jpg",
+        "style": "Formal",
+        "price": "640000",
+        "gender": "Man"
+    },
+    {
+        "race": "Middle Eastern",
+        "rekomendasi": "Pants (Men Drawstring Waist Slant Pocket Pants)",
+        "gambar": "https://storage.cloud.google.com/mixmate/men-drawstring-waist-slant-pocket-pants.jpg",
+        "style": "Formal",
+        "price": "460000",
+        "gender": "Man"
+    },
+    {
+        "race": "Middle Eastern",
+        "rekomendasi": "Sandals (Mint Crocs)",
+        "gambar": "https://storage.cloud.google.com/mixmate/mint-crocs.jpg",
+        "style": "Formal",
+        "price": "744100",
+        "gender": "Man"
+    },
+    {
+        "race": "Middle Eastern",
+        "rekomendasi": "T-Shirt (White T-Shirt)",
+        "gambar": "https://storage.googleapis.com/mixmate/white-tshirt.jpg",
+        "style": "Casual",
+        "price": "150000",
+        "gender": "Unisex"
+    },
+    {
+        "race": "Middle Eastern",
+        "rekomendasi": "Jeans (Astro Loose Baggy Jeans)",
+        "gambar": "https://storage.googleapis.com/mixmate/astro-loose-baggy-jeans.jpg",
+        "style": "Casual",
+        "price": "890000",
+        "gender": "Unisex"
+    },
+    {
+        "race": "Middle Eastern",
+        "rekomendasi": "Shoes (Adidas Velosamba Vegan Cycling Shoes)",
+        "gambar": "https://storage.googleapis.com/mixmate/adidas-velosamba-vegan-cycling-shoes.jpg",
+        "style": "Casual",
+        "price": "1600000",
+        "gender": "Unisex"
+    },
+    {
+        "race": "Middle Eastern",
+        "rekomendasi": "Abaya (LB51 Organza Abaya)",
+        "gambar": "https://storage.googleapis.com/mixmate/lb51-organza-abaya.jpg",
+        "style": "Formal",
+        "price": "12000000",
+        "gender": "Women"
+    },
+    {
+        "race": "Middle Eastern",
+        "rekomendasi": "High Heels (High Heels Shoes)",
+        "gambar": "https://storage.googleapis.com/mixmate/high-heels-shoes.jpg",
+        "style": "Formal",
+        "price": "1000000",
+        "gender": "Women"
+    },
+    {
+        "race": "Latino Hispanic",
+        "rekomendasi": "Dress (Floral Print Rose Swing Dress)",
+        "gambar": "https://storage.cloud.google.com/mixmate/Floral-Print-Rose-Swing-Dress-Black-Red.jpg",
+        "style": "Vintage",
+        "price": "562000",
+        "gender": "Women"
+    },
+    {
+        "race": "Latino Hispanic",
+        "rekomendasi": "High Heels (Retro Black White Ankle Strappy High Heels)",
+        "gambar": "https://storage.cloud.google.com/mixmate/retro-black-white-ankle-strappy-high-heels.jpg",
+        "style": "Vintage",
+        "price": "887000",
+        "gender": "Women"
+    },
+    {
+        "race": "Latino Hispanic",
+        "rekomendasi": "Earrings (Kate Earrings)",
+        "gambar": "https://storage.googleapis.com/mixmate/kate-earrings.jpg",
+        "style": "Casual",
+        "price": "250000",
+        "gender": "Women"
+    },
+    {
+        "race": "Latino Hispanic",
+        "rekomendasi": "Top (Ring Asymmetric Top)",
+        "gambar": "https://storage.googleapis.com/mixmate/ring-asymmetric-top.jpg",
+        "style": "Casual",
+        "price": "330000",
+        "gender": "Women"
+    },
+    {
+        "race": "Latino Hispanic",
+        "rekomendasi": "Sweater (Everyly Sweater)",
+        "gambar": "https://storage.googleapis.com/mixmate/everyly-sweater.jpg",
+        "style": "Casual",
+        "price": "820000",
+        "gender": "Women"
+    },
+    {
+        "race": "Latino Hispanic",
+        "rekomendasi": "Skirt (Rhea Long Denim Skirt)",
+        "gambar": "https://storage.googleapis.com/mixmate/rhea-long-denim-skirt.jpg",
+        "style": "Casual",
+        "price": "970000",
+        "gender": "Women"
+    },
+    {
+        "race": "Latino Hispanic",
+        "rekomendasi": "Boots (Tommy Hilfiger Plaque Ankle Boots)",
+        "gambar": "https://storage.googleapis.com/mixmate/monogram-plaque-ankle-boots.jpg",
+        "style": "Casual",
+        "price": "2500000",
+        "gender": "Women"
+    },
+    {
+        "race": "Latino Hispanic",
+        "rekomendasi": "T-Shirt (White T-Shirt)",
+        "gambar": "https://storage.googleapis.com/mixmate/white-tshirt.jpg",
+        "style": "Casual",
+        "price": "150000",
+        "gender": "Unisex"
+    },
+    {
+        "race": "Latino Hispanic",
+        "rekomendasi": "Jeans (Astro Loose Baggy Jeans)",
+        "gambar": "https://storage.googleapis.com/mixmate/astro-loose-baggy-jeans.jpg",
+        "style": "Casual",
+        "price": "890000",
+        "gender": "Unisex"
+    },
+    {
+        "race": "Latino Hispanic",
+        "rekomendasi": "Shoes (Adidas Velosamba Vegan Cycling Shoes)",
+        "gambar": "https://storage.googleapis.com/mixmate/adidas-velosamba-vegan-cycling-shoes.jpg",
+        "style": "Casual",
+        "price": "1600000",
+        "gender": "Unisex"
+    },
+    {
+        "race": "Latino Hispanic",
+        "rekomendasi": "Sunglasses (Trek Sunglasses)",
+        "gambar": "https://storage.googleapis.com/mixmate/trek-sunglasses.jpg",
+        "style": "Street",
+        "price": "600000",
+        "gender": "Women"
+    },
+    {
+        "race": "Latino Hispanic",
+        "rekomendasi": "Dress (Maeve Oversized Dress)",
+        "gambar": "https://storage.googleapis.com/mixmate/maeve-oversized-dress.jpg",
+        "style": "Street",
+        "price": "1200000",
+        "gender": "Women"
+    },
+    {
+        "race": "Latino Hispanic",
+        "rekomendasi": "Boots (Ankle Boots)",
+        "gambar": "https://storage.googleapis.com/mixmate/ankle-boots.jpg",
+        "style": "Street",
+        "price": "800000",
+        "gender": "Women"
+    }
+]
+}
